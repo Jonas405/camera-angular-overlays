@@ -1,0 +1,6 @@
+webcam video {
+
+    outline: 5px solid green;
+    outline-offset: -15px;
+    position: relative;
+  }

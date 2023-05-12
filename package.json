@@ -18,7 +18,10 @@
     "@angular/platform-browser": "^15.2.0",
     "@angular/platform-browser-dynamic": "^15.2.0",
     "@angular/router": "^15.2.0",
+    "ngx-capture": "^0.13.0",
+    "ngx-webcam": "^0.4.1",
     "rxjs": "~7.8.0",
+    "rxjs-observable": "^0.0.7",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
   },
